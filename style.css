@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+.header {
+    height: 70px;
+background-color: lightblue;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.container{
+padding-left: 50px;
+}
+.left {
+    width: 80px;
+}
+.left img {
+    width: 100%;
+}
+.middle ul {
+    display: flex;
+    list-style: none;
+}
+.middle ul li {
+    margin-right: 20px;
+}
+.section1 h5{
+    height: 60px;
+    padding-left: 12%;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.section1 h1 {
+    font-weight: bold;
+    height: 180px;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 60px;
+}
+.section1 h4{
+    padding-left: 12%;
+    font-weight: bold;
+    height: 50px;
+    background: #f8fbff;
+    border-bottom: 1px solid #b1cbe5;
+    padding-top: 20px;
+}
+  
+  .section2{
+      display: flex;
+  }
+  .section3{
+      display: flex;
+  }
+  .section4{
+      display: flex;
+  }
+  .section5{
+      display: flex;
+      justify-content: space-between;
+  }
+  .main2{
+ font-family: cursive;
+     
+  }
+  .section6{
+      margin-left-50px;
+  }
+  .section6  button{
+    width: 50px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    margin-left: 50px;
+    margin-top: 80px;
+
+    
+  }
+  .section6 button:hover{
+      background-color: #0c5ca8;
+      color: white;
+  }
+  .section7{
+      background-color: #0c5ca8;
+      width: 100%;
+      box-sizing: border-box;
+      padding-top: 78px;
+      padding-bottom: 28px;
+      display: flex;
+      justify-content:space-between;
+          font-family: 'Effra-Regular',Arial;
+          font-weight:lighter;
+          font-size: .75rem;
+          margin-top: 80px;
+          padding-right: 150px;
+          
+  }
+  .footer1 li{
+    font-size: 12px;
+    color: #fff;
+    line-height: 30px;
+    list-style: none;
+  }
+  .footer2 li{
+    font-size: 12px;
+    color: #fff;
+    line-height: 30px;
+    list-style: none;
+  }
+  .footer3 li{
+    font-size: 12px;
+    color: #fff;
+    line-height: 30px;
+    list-style: none;
+  }
+  .footer4 li{
+    font-size: 12px;
+    color: #fff;
+    line-height: 30px;
+    list-style: none;
+  }
+  .footer5 li{
+    font-size: 12px;
+    color: #fff;
+    line-height: 30px;
+    list-style: none;
+  }
+  .footer1 a{
+      list-style: none;
+  }
